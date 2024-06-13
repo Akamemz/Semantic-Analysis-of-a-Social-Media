@@ -81,7 +81,7 @@ def main():
             st.title("What is Reddit?")
 
         with col2:
-            st.image("Screenshot 2024-06-10 at 23.09.51.png", width=100)  # Adjust the width as needed
+            st.image("Screenshot.png", width=100)  # Adjust the width as needed
 
         st.write("## Reddit Overview")
 
