@@ -5,7 +5,7 @@ Reddit Sentiment Analyzer is a web application built with Streamlit that perform
 ## Features
 
 - Fetches Reddit posts based on user input (subreddit and search term).
-- Analyzes the sentiment of comments in a selected Reddit post using DistilBERT.
+- Analyzes the sentiment of comments in a selected Reddit post using BERT base.
 - Displays mood analysis percentages (Good, Bad, Neutral).
 - Visualizes sentiment distribution with a pie chart.
 - Shows the change in mood over time with a line chart.
