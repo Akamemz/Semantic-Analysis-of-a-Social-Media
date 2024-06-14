@@ -15,3 +15,6 @@ Reddit Sentiment Analyzer is a web application built with Streamlit that perform
 
 - This application uses the free version of Reddit's API, which has some rate limits and usage restrictions.
 - There is a computational constraint that prevents analyzing posts with more than 2,000 comments or it could take a lot of time for a process.
+
+
+P.S. You will be able to find all the necessary code in the "Project/project app" folder.
